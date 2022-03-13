@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://ayroneth.github.io/csb-fxqncw/static/js/main.6adce849.chunk.js",
-    "main.js.map": "https://ayroneth.github.io/csb-fxqncw/static/js/main.6adce849.chunk.js.map",
+    "main.js": "https://ayroneth.github.io/csb-fxqncw/static/js/main.225274a6.chunk.js",
+    "main.js.map": "https://ayroneth.github.io/csb-fxqncw/static/js/main.225274a6.chunk.js.map",
     "runtime-main.js": "https://ayroneth.github.io/csb-fxqncw/static/js/runtime-main.8ececf2c.js",
     "runtime-main.js.map": "https://ayroneth.github.io/csb-fxqncw/static/js/runtime-main.8ececf2c.js.map",
-    "static/js/2.f61d4f73.chunk.js": "https://ayroneth.github.io/csb-fxqncw/static/js/2.f61d4f73.chunk.js",
-    "static/js/2.f61d4f73.chunk.js.map": "https://ayroneth.github.io/csb-fxqncw/static/js/2.f61d4f73.chunk.js.map",
+    "static/js/2.19c7adc3.chunk.js": "https://ayroneth.github.io/csb-fxqncw/static/js/2.19c7adc3.chunk.js",
+    "static/js/2.19c7adc3.chunk.js.map": "https://ayroneth.github.io/csb-fxqncw/static/js/2.19c7adc3.chunk.js.map",
     "index.html": "https://ayroneth.github.io/csb-fxqncw/index.html",
-    "static/js/2.f61d4f73.chunk.js.LICENSE.txt": "https://ayroneth.github.io/csb-fxqncw/static/js/2.f61d4f73.chunk.js.LICENSE.txt"
+    "static/js/2.19c7adc3.chunk.js.LICENSE.txt": "https://ayroneth.github.io/csb-fxqncw/static/js/2.19c7adc3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8ececf2c.js",
-    "static/js/2.f61d4f73.chunk.js",
-    "static/js/main.6adce849.chunk.js"
+    "static/js/2.19c7adc3.chunk.js",
+    "static/js/main.225274a6.chunk.js"
   ]
 }
